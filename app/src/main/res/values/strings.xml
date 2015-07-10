@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Experience</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_act_lower_button_weight">2</string>
+    <string name="title_activity_white_rabbit_activity1">White_rabbit_activity1</string>
+    <string name="title_activity_config_act1">config_act1</string>
+    <string name="title_activity_add_exp_act1">add_exp_act1</string>
+    <string name="title_first_exp_add">New \'experience\'</string>
+    <string name="maps_api_key">IzaSyBd1nQLsLtScmGIlLO9pOL4raraVIEeA08</string>
+
+</resources>
